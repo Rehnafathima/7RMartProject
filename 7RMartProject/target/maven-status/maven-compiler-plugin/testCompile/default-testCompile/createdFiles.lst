@@ -1,0 +1,9 @@
+testScript\SubCategoryTest.class
+testScript\LoginTest.class
+listener\Listeners.class
+testScript\HomeTest.class
+testScript\AdminUserTest.class
+testScript\ManageContactTest.class
+testScript\ManageNewsTest.class
+automationCore\Base.class
+retry\Retry.class
